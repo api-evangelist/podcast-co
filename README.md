@@ -64,23 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Podcast.co is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Podcast.co provides a SaaS platform that enables individuals and businesses to create, host, distribute, and monetize podcasts. Users can record, edit, and publish audio episodes, manage private podcast networks, and integrate with major podcast directories. The service offers analytics, customizable players, and tools for audience growth, making it a comprehensive solution for podcast production and distribution.
 
-**Areas:** Company
+**Areas:** Podcasting · Hosting · Audio · SaaS · Media
 
 ## Podcast.co on APIs.io
 
 Everything profiled for Podcast.co is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/podcast-co/](https://apis.io/providers/podcast-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Podcast.co Episodes API](https://apis.io/apis/podcast-co/podcast-co-episodes-api/) — The episodes API from Podcast.co — 3 operation(s) for episodes.
+- [Podcast.co podcast page API](https://apis.io/apis/podcast-co/podcast-co-podcast-page-api/) — The podcast page API from Podcast.co — 1 operation(s) for podcast page.
+- [Podcast.co Podcasts API](https://apis.io/apis/podcast-co/podcast-co-podcasts-api/) — The podcasts API from Podcast.co — 7 operation(s) for podcasts.
+- [Podcast.co subscribe button API](https://apis.io/apis/podcast-co/podcast-co-subscribe-button-api/) — The subscribe button API from Podcast.co — 1 operation(s) for subscribe button.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Podcast Co Agentic Access](https://apis.io/agentic-access/podcast-co/podcast-co-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Podcast.co API Rules](https://apis.io/rules/podcast-co/podcast-co-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Podcast Co Authentication](https://apis.io/security/podcast-co/podcast-co-authentication/)
+- [Podcast Co Domain Security](https://apis.io/security/podcast-co/podcast-co-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Podcast Co Scopes](https://apis.io/scopes/podcast-co/podcast-co-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Podcast Co Plans Pricing](https://apis.io/plans/podcast-co/podcast-co-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Podcast Co Rate Limits](https://apis.io/rate-limits/podcast-co/podcast-co-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://podcast.co/)
+- [Documentation](https://help.podcast.co/)
+- [Getting started](https://help.podcast.co/en/articles/2707433-create-setup-a-podcast-network)
+- [API reference](https://developers-36dc921ce4.podcast.co/openapi_specs/public)
+- [Pricing](https://www.podcast.co/pricing)
+- [Sign up](https://studio.podcast.co/login)
+- [Support](https://help.podcast.co/en/)
+- [Blog](https://blog.podcast.co/)
+- [Terms of service](https://www.podcast.co/terms)
+- [Privacy policy](https://www.podcast.co/privacy)
+- [Status](https://status.podcast.co/)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/podcast-co/](https://apis.io/providers/podcast-co/).
+**Kin Score 52.4** — developing · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 39.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 63.7 |
+
+**Agent readiness 38.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/podcast-co/](https://apis.io/providers/podcast-co/).
 
 ## How this profile is made
 
